@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+}
+
+#quotes {
+  font-size: 20px;
+  margin-top: 100px;
+  color: black;
+  border-radius: 10px;
+}
+
+#twt-btn {
+  border: 1px solid black
+}
+
+#displayPrevQuotes {
+  list-style-type: none;
+  color: black;
+  background-color: lightblue;
+}
+
+#author {
+  float: right;
+}
+
+#get-quote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  float: right;
+}
+
+.fa {
+  font-size: 48px;
+}
